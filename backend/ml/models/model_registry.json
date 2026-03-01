@@ -1,0 +1,12 @@
+{
+    "active": "v1",
+    "versions": [
+        {
+            "version": "v1",
+            "trained_at": "2026-03-01",
+            "accuracy": 0.981,
+            "recall": 0.987,
+            "status": "active"
+        }
+    ]
+}
